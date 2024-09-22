@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rikganguli52@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](./rikganguli_resume6.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
