@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [link](https://github.com/RikGanguli/Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/RikGanguli/Projects)
 
 - 💬 Ask me about **Python, Java, JavaScript, React, SQL**
 
