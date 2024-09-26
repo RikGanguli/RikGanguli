@@ -14,6 +14,8 @@
 - 📫 How to reach me **rikganguli52@gmail.com**
 
 - 📄 Know about my experiences [Resume](./rikganguli_resume_6.pdf)
+  
+- 🌐 Check out my portfolio [Portfolio](https://rikganguli.github.io/my-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
